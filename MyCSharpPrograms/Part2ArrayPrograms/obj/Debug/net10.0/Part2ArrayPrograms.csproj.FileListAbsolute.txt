@@ -1,0 +1,14 @@
+D:\MyCSharpPrograms\Part2ArrayPrograms\bin\Debug\net10.0\Part2ArrayPrograms.exe
+D:\MyCSharpPrograms\Part2ArrayPrograms\bin\Debug\net10.0\Part2ArrayPrograms.deps.json
+D:\MyCSharpPrograms\Part2ArrayPrograms\bin\Debug\net10.0\Part2ArrayPrograms.runtimeconfig.json
+D:\MyCSharpPrograms\Part2ArrayPrograms\bin\Debug\net10.0\Part2ArrayPrograms.dll
+D:\MyCSharpPrograms\Part2ArrayPrograms\bin\Debug\net10.0\Part2ArrayPrograms.pdb
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.AssemblyInfoInputs.cache
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.AssemblyInfo.cs
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.csproj.CoreCompileInputs.cache
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.dll
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\refint\Part2ArrayPrograms.dll
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.pdb
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\Part2ArrayPrograms.genruntimeconfig.cache
+D:\MyCSharpPrograms\Part2ArrayPrograms\obj\Debug\net10.0\ref\Part2ArrayPrograms.dll

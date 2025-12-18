@@ -1,0 +1,14 @@
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\bin\Debug\net10.0\AllPrograms.exe
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\bin\Debug\net10.0\AllPrograms.deps.json
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\bin\Debug\net10.0\AllPrograms.runtimeconfig.json
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\bin\Debug\net10.0\AllPrograms.dll
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\bin\Debug\net10.0\AllPrograms.pdb
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.AssemblyInfoInputs.cache
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.AssemblyInfo.cs
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.csproj.CoreCompileInputs.cache
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.dll
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\refint\AllPrograms.dll
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.pdb
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\AllPrograms.genruntimeconfig.cache
+D:\MyCSharpPrograms\AllPrograms\AllPrograms\AllPrograms\obj\Debug\net10.0\ref\AllPrograms.dll
