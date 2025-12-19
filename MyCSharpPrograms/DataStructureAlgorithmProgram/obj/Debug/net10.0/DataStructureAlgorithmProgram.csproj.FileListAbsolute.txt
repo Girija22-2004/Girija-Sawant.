@@ -1,0 +1,14 @@
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\bin\Debug\net10.0\DataStructureAlgorithmProgram.exe
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\bin\Debug\net10.0\DataStructureAlgorithmProgram.deps.json
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\bin\Debug\net10.0\DataStructureAlgorithmProgram.runtimeconfig.json
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\bin\Debug\net10.0\DataStructureAlgorithmProgram.dll
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\bin\Debug\net10.0\DataStructureAlgorithmProgram.pdb
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.AssemblyInfoInputs.cache
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.AssemblyInfo.cs
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.csproj.CoreCompileInputs.cache
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.dll
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\refint\DataStructureAlgorithmProgram.dll
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.pdb
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\DataStructureAlgorithmProgram.genruntimeconfig.cache
+D:\MyCSharpPrograms\DataStructureAlgorithmProgram\obj\Debug\net10.0\ref\DataStructureAlgorithmProgram.dll
